@@ -1,0 +1,7 @@
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\obj\Debug\Class1NumericTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\obj\Debug\Class1NumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\bin\Debug\Class1NumericTypes.exe.config
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\bin\Debug\Class1NumericTypes.exe
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\bin\Debug\Class1NumericTypes.pdb
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\obj\Debug\Class1NumericTypes.exe
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\Class1NumericTypes\obj\Debug\Class1NumericTypes.pdb

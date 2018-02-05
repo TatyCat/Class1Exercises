@@ -1,0 +1,11 @@
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\obj\Debug\netcoreapp2.0\stringAppClass1.csprojResolveAssemblyReference.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\obj\Debug\netcoreapp2.0\stringAppClass1.csproj.CoreCompileInputs.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\obj\Debug\netcoreapp2.0\stringAppClass1.AssemblyInfoInputs.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\obj\Debug\netcoreapp2.0\stringAppClass1.AssemblyInfo.cs
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\bin\Debug\netcoreapp2.0\stringAppClass1.deps.json
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\bin\Debug\netcoreapp2.0\stringAppClass1.runtimeconfig.json
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\bin\Debug\netcoreapp2.0\stringAppClass1.runtimeconfig.dev.json
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\bin\Debug\netcoreapp2.0\stringAppClass1.dll
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\bin\Debug\netcoreapp2.0\stringAppClass1.pdb
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\obj\Debug\netcoreapp2.0\stringAppClass1.dll
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\stringAppClass1\obj\Debug\netcoreapp2.0\stringAppClass1.pdb

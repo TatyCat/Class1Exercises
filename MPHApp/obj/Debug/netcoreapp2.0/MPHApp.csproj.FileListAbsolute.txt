@@ -1,0 +1,11 @@
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\obj\Debug\netcoreapp2.0\MPHApp.csprojResolveAssemblyReference.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\obj\Debug\netcoreapp2.0\MPHApp.csproj.CoreCompileInputs.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\obj\Debug\netcoreapp2.0\MPHApp.AssemblyInfoInputs.cache
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\obj\Debug\netcoreapp2.0\MPHApp.AssemblyInfo.cs
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\bin\Debug\netcoreapp2.0\MPHApp.deps.json
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\bin\Debug\netcoreapp2.0\MPHApp.runtimeconfig.json
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\bin\Debug\netcoreapp2.0\MPHApp.runtimeconfig.dev.json
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\bin\Debug\netcoreapp2.0\MPHApp.dll
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\bin\Debug\netcoreapp2.0\MPHApp.pdb
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\obj\Debug\netcoreapp2.0\MPHApp.dll
+C:\Users\Tatyanna\Documents\Projects\Class1Prep\MPHApp\obj\Debug\netcoreapp2.0\MPHApp.pdb
