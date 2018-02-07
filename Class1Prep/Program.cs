@@ -9,6 +9,7 @@ namespace Class1PrepName
             Console.WriteLine("What is your name?: ");
             string name = Console.ReadLine();
             Console.WriteLine("Hello " + name);
+            //best practice $"Hello{name}"
             Console.WriteLine("Press any key to exit.");
             Console.ReadLine();
         }

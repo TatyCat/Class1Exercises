@@ -22,3 +22,8 @@ namespace Class1NumericTypes
         }
     }
 }
+
+
+
+//Last console writeline, concat, better way $"Mystring{variablename}" - similar to stringbuilder
+//string builder is with files and etc. not neccessarily for this class.
